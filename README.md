@@ -1,10 +1,9 @@
 # [Kaddy Gassama](https://startbootstrap.com/template-overviews/blog-post/)
 
-[A Highly trained leader and professional who has exceptional operational administrative, training and project management skills honed over the years of extensive experience; ability to head a staff efficiently and ensures that all worked are achieved within the given period; excellent time management skills; proficient in various computer software programs](http://startbootstrap.com/template-overviews/blog-post/) is a basic blog post HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
-[![Blog Post Preview](https://startbootstrap.com/assets/img/templates/blog-post.jpg)](https://blackrockdigital.github.io/startbootstrap-blog-post/)
+A Highly trained leader and professional who has exceptional operational administrative, training and project management skills honed over the years of extensive experience; ability to head a staff efficiently and ensures that all worked are achieved within the given period; excellent time management skills; proficient in various computer software programs
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-blog-post/)**
 
