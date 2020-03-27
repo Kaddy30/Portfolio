@@ -1,4 +1,4 @@
-# [Start Bootstrap - Blog Post](https://startbootstrap.com/template-overviews/blog-post/)
+# [Kaddy Gassama](https://startbootstrap.com/template-overviews/blog-post/)
 
 [Blog Post](http://startbootstrap.com/template-overviews/blog-post/) is a basic blog post HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
